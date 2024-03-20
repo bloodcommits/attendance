@@ -12,6 +12,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 			<AuthContextProvider>
 				{/* <SocketContextProvider> */}
 					<App />
+					{/* <div>
+						hello
+					</div> */}
 				{/* </SocketContextProvider> */}
 			</AuthContextProvider>
 		</BrowserRouter>
